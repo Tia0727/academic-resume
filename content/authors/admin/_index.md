@@ -1,6 +1,7 @@
 ---
 title: Ting Huang
 role: PhD of Aarhus Univeristy
+avatar_filename: img_3863-2寸.jpg
 bio: My research interests include Tia a a b cc d e w f
 interests:
   - Public Management
