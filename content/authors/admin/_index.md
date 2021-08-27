@@ -2,8 +2,7 @@
 title: Ting Huang
 role: PhD of Aarhus Univeristy
 avatar_filename: avatar.jpg
-bio: My research interests include strategic leadership, diversity & inclusion,
-  public management and organizational studies.
+bio: ""
 interests:
   - Strategic Leadership
   - Diversity & Inclusion
