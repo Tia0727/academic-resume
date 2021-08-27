@@ -30,13 +30,13 @@ organizations:
     url: https://www.au.dk/
 education:
   courses:
-    - course: PhD in Social Science, 2020
+    - course: PhD in Social Science
       institution: Aarhus University
-      year: 2020
-    - course: MS in Public Management
+      year: ""
+    - course: MS in Public Management, 2020
       institution: Copenhagen Business School & University of Chinese Academy of Sciences
       year: ""
-    - course: BSc in Management
+    - course: BSc in Management, 2017
       institution: South China Agricultural University
       year: ""
 email: hting@mgmt.au.dk
