@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Social Science
       institution: Aarhus University
-      year: ""
+      year: 2020
     - course: MS in Public Management
       institution: Copenhagen Business School & University of Chinese Academy of Sciences
       year: ""
