@@ -31,15 +31,15 @@ organizations:
     url: https://www.au.dk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Social Science
+      institution: Aarhus University
+      year: ""
+    - course: MS in Public Management
+      institution: Copenhagen Business School & University of Chinese Academy of Sciences
+      year: ""
+    - course: BSc in Management
+      institution: South China Agricultural University
+      year: ""
 email: hting@mgmt.au.dk
 superuser: true
 highlight_name: false
