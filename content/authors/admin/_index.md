@@ -30,7 +30,7 @@ organizations:
     url: https://www.au.dk/
 education:
   courses:
-    - course: PhD in Social Science
+    - course: PhD in Social Science, 2020
       institution: Aarhus University
       year: 2020
     - course: MS in Public Management
