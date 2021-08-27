@@ -46,6 +46,4 @@ Ting Huang is a PhD fellow at [Department of Management](https://mgmt.au.dk/), A
 
 She is a member of the [Crown Prince Frederik Center for Public Leadership](https://ps.au.dk/en/cpl/) and a supervisor for the [Public Management and Social Development program](https://sdc.university/education/masters-programme/public-management/) at [Sino-Danish Center](https://sdc.university/)
 
-TingHuang dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
