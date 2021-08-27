@@ -42,7 +42,9 @@ email: hting@mgmt.au.dk
 superuser: true
 highlight_name: false
 ---
-Ting Huang is a PhD of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ting Huang is a PhD fellow at Department of Management, Aarhus University. Her research interests include strategic leadership, diversity and inclusion, public management, organizational studies. 
+
+She is a member of the [Crown Prince Frederik Center for Public Leadership](https://ps.au.dk/en/cpl/) and a supervisor for the [Public Management and Social Development program](https://sdc.university/education/masters-programme/public-management/) at [Sino-Danish Center](https://sdc.university/)
 
 TingHuang dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
