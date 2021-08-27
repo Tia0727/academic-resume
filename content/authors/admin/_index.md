@@ -1,12 +1,11 @@
 ---
 title: Ting Huang
 role: PhD of Aarhus Univeristy
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Tia a a b cc d e w f
 interests:
   - Public Management
-  - Computational Linguistics
-  - Information Retrieval
+  - "1234567"
+  - "1234567"
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aarhus University
+    url: https://www.au.dk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,7 +36,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: 1131885176@qq.com
+email: hting@mgmt.au.dk
 superuser: true
 highlight_name: false
 ---
