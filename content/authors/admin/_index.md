@@ -44,8 +44,8 @@ email: hting@mgmt.au.dk
 superuser: true
 highlight_name: false
 ---
-Ting Huang is a PhD fellow at [Department of Management](https://mgmt.au.dk/), Aarhus University. Her research interests include strategic leadership, diversity and inclusion, public management and organizational studies. 
+Ting Huang is a PhD fellow at [Department of Management](https://mgmt.au.dk/), Aarhus University. My research interests include strategic leadership, diversity and inclusion, public management and organizational studies. 
 
-She is a member of the [Crown Prince Frederik Center for Public Leadership](https://ps.au.dk/en/cpl/) and a supervisor for the [Public Management and Social Development program](https://sdc.university/education/masters-programme/public-management/) at [Sino-Danish Center](https://sdc.university/)
+I am a member of the [Crown Prince Frederik Center for Public Leadership](https://ps.au.dk/en/cpl/) and a supervisor for the [Public Management and Social Development program](https://sdc.university/education/masters-programme/public-management/) at [Sino-Danish Center](https://sdc.university/)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
