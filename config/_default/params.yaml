@@ -30,8 +30,8 @@ address:
   country: Denmark
   country_code: DK
 coordinates:
-  latitude: '56.1624'
-  longitude: '10.1828'
+  latitude: '10.1828'
+  longitude: '56.1624'
 directions: Enter Building 2628
 contact_links:
   - icon: twitter
