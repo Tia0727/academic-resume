@@ -9,8 +9,7 @@ experience:
     location: Beijing, China
     date_start: 2018-09
     date_end: "2018-12"
-    description: |-2
-        #Responsibilities include:
+    description: >-    
         
         * Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.
         * Action: I did several policy analyses; I also contributed to strategies for shared bikes, such as strategies for developing our bikes in universities, activities for government-business cooperation, etc.
