@@ -1,5 +1,5 @@
 ---
-title: Master's experience sharing with freshmen of PMSD program at SDC
+title: "Talk: Master's experience sharing with freshmen of PMSD program at SDC"
 abstract: sharing
 location: online
 date: 2021-01-14T18:00:38.197Z
