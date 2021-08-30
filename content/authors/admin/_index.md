@@ -26,7 +26,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Aarhus University
+  - name: Aarhus University (Denmark)
     url: https://www.au.dk/
 education:
   courses:
