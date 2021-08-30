@@ -1,5 +1,5 @@
 ---
-title: Leadership development and succession planning
+title: "Lecture: Leadership development and succession planning"
 abstract: lecture 2
 location: Aarhus University
 date: 2021-05-11T22:00:42.642Z
