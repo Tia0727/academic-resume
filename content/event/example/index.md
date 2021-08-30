@@ -6,7 +6,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: "lecture: Equality, Diversity and Inclusion"
+title: "Lecture: Equality, Diversity and Inclusion"
 location: Aarhus University
 date: 2021-04-28T06:00:00.000Z
 date_end: 2021-04-28T20:00:40.300Z
