@@ -16,20 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Stata, R
-  icon: open-data
-  icon_pack: fab
+- description: Stata, R, ArcGIS
+  icon: database
+  icon_pack: fas
   name: Statistics
-- description: 
-  icon: R-project
-  icon_pack: fab
-  name: ArcGIS
 - description: Pr, AE
-  icon: camera-retro
+  icon: film
   icon_pack: fas
   name: Video editing
 - description: Mandarin, English, Cantonese
-  icon: camera-retro
+  icon: language
   icon_pack: fas
   name: Language
 
