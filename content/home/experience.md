@@ -2,14 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience: 
-   - title: Government Affairs Intern
+  - title: Government Affairs Intern
     company: DiDi
     company_url: "https://www.didiglobal.com/"
     company_logo: org-gc
     location: Beijing, China
     date_start: 2018-09
     date_end: 2018-12
-    description: >-  Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.  
+    description: Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.  
              
   - title: CEO of JD
     company: JD
