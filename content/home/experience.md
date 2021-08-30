@@ -7,8 +7,8 @@ experience:
     company_url: "https://www.didiglobal.com/"
     company_logo: org-gc
     location: Beijing, China
-    date_start: 2021-01-01
-    date_end: 2021-06-28
+    date_start: 2018-09
+    date_end: 2018-12
     description: Taught electronic engineering and researched semiconductor physics. 
              
   - title: CEO of JD
