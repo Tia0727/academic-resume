@@ -6,7 +6,7 @@ experience:
     company: DiDi
     company_url: "https://www.didiglobal.com/"
     company_logo: org-gc
-    location: Beijing,China
+    location: Beijing, China
     date_start: 2021-01-01
     date_end: 2021-06-28
     description: Taught electronic engineering and researched semiconductor physics. 
