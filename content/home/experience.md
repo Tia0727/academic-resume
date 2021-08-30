@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience: 
 
- - title: Project Management Intern
+  - title: Project Management Intern
     company: JD
     company_url: "https://corporate.jd.com/"
     company_logo: JD.com Logo
