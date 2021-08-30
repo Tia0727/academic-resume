@@ -8,8 +8,8 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: lecture 1： Equality, Diversity and Inclusion
 location: Aarhus University
-date: 2021-05-12T10:00:00.000Z
-date_end: 2021-05-12T12:00:40.300Z
+date: 2021-04-28T06:00:00.000Z
+date_end: 2021-04-28T20:00:40.300Z
 all_day: false
 event: Lecture
 event_url: online
