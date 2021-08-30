@@ -10,7 +10,7 @@ experience:
     date_start: 2018-09-04
     date_end: 2018-12-28
     description: |-2
-    * Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.
+     Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.
     
     
              
