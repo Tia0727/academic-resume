@@ -6,10 +6,10 @@ experience:
     company: DiDi
     company_url: "https://www.didiglobal.com/"
     company_logo: org-gc
-    location: Beijing, China
+    location: Beijing
     date_start: 2021-01-01
     date_end: 2021-06-28
-    description: Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.  
+    description: Taught electronic engineering and researched semiconductor physics. 
              
   - title: CEO of JD
     company: JD
