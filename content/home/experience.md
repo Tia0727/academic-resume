@@ -7,8 +7,8 @@ experience:
     company_url: "https://www.didiglobal.com/"
     company_logo: org-gc
     location: Beijing, China
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-01
+    date_end: 2021-06-28
     description: Situation: Devoting to the development of shared bikes and government-business relationship in DiDi.  
              
   - title: CEO of JD
