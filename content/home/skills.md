@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Stata, R, ArcGIS
-  icon: database
+  icon: laptop-code
   icon_pack: fas
   name: Statistics
 - description: Pr, AE
