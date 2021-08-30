@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: stata-project
+- description: Stata, R
+  icon: open-data
   icon_pack: fab
-  name: Stata
-- description: 100%
+  name: Statistics
+- description: 
   icon: R-project
   icon_pack: fab
-  name: R
-- description: 
+  name: ArcGIS
+- description: Pr, AE
   icon: camera-retro
   icon_pack: fas
   name: Video editing
+- description: Mandarin, English, Cantonese
+  icon: camera-retro
+  icon_pack: fas
+  name: Language
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
