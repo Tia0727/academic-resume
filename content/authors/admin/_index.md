@@ -1,6 +1,6 @@
 ---
 title: Ting Huang
-role: PhD of Aarhus Univeristy
+role: PhD fellow
 avatar_filename: avatar.jpg
 bio: ""
 interests:
