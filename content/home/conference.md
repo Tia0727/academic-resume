@@ -22,4 +22,4 @@ design:
 * 2021, Presenter, Academy of Management Conference, virtual
 * 2021, Presenter, PhD Mini-Conference in Public
   Administration (Denmark), vitual
-* 2021, Peer reviewer, AOMC (Best Reviewer Award)
+* 2021-present, Peer reviewer, Academy of Management Conference
