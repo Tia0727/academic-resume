@@ -5,10 +5,10 @@ publication_types:
   - "1"
 authors:
   - Huang
-  - T.
-  - "& Villadsen"
+  - T. & Villadsen
   - A. R.
 doi: 10.5465/AMBPP.2021.14843abstract
+publication: " Academy of Management Proceedings"
 abstract: This article synthesizes empirical research on top managers in public
   organizations. We present a systematic literature review of 138 studies
   focused on public sector top managers between 2005 and 2020. The paper
