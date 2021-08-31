@@ -3,7 +3,6 @@ title: "Top Managers in Public Organizations: A Systematic Literature Review and
   Future Research Directions"
 publication_types:
   - "1"
-  - "0"
 authors:
   - admin
   - Anders R. Villadsen
