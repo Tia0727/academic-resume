@@ -2,7 +2,6 @@
 title: "Adaptability of Population Policies in National Key Ecological Function
   Areas. "
 publication_types:
-  - "0"
   - "2"
 authors:
   - admin
