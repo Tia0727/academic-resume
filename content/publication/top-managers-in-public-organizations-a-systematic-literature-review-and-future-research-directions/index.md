@@ -2,11 +2,11 @@
 title: "Top Managers in Public Organizations: A Systematic Literature Review and
   Future Research Directions"
 publication_types:
+  - "1"
   - "0"
 authors:
   - admin
-  - Villadsen
-  - A. R.
+  - Anders R. Villadsen
 doi: 10.5465/AMBPP.2021.14843abstract
 publication: " Academy of Management Proceedings"
 abstract: This article synthesizes empirical research on top managers in public
@@ -30,6 +30,3 @@ image:
   preview_only: false
 date: 2021-08-31T15:34:06.096Z
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
