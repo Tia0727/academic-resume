@@ -2,7 +2,6 @@
 title: An analysis of the causes of deviations in the implementation of social
   maintenance policy
 publication_types:
-  - "0"
   - "2"
 authors:
   - admin
