@@ -2,7 +2,6 @@
 title: Study on China's Multiple Governance Model of Free-Floating Bike Sharing
   ——the Comparison among Fuzhou, Shenzhen and Chengdu
 publication_types:
-  - "0"
   - "2"
 authors:
   - admin
