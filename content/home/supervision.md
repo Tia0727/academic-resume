@@ -10,11 +10,15 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-topics:
+**Topics:**
   - Public management
   - Organizational studies
   - Leadership and Diversityt
   - Policy analysis
   - Government-firm relations
   - Environmental issues/ Sustainability
-  - Quantitative and Qualitative
+  - Quantitative and Qualitative<br>
+---
+<br>Interested AU BSS students should email me (hting@mgmt.au.dk) to schedule an initial chat and talk about potential synergies. <br>
+<br>**Previous supervision:**
+   - Cecilie Jørgensen (MSc in Public Management and Social Development at Sino-Danish Center)
