@@ -3,7 +3,7 @@ widget: pages
 widget_id: Conferences and Services
 headless: true
 weight: 25
-title: Conferences
+title: Conferences & Services
 subtitle: ""
 content:
   page_type: talk
