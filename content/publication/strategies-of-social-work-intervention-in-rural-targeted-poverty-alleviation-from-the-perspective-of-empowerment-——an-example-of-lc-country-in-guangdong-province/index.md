@@ -3,7 +3,6 @@ title: Strategies of social work intervention in rural targeted poverty
   alleviation from the perspective of empowerment ——An example of LC country in
   Guangdong Province
 publication_types:
-  - "0"
   - "2"
 authors:
   - Xiaoying Lai
